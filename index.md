@@ -13,4 +13,4 @@ You're viewing Yiran Xu's profile.
 
 [Linkedin](https://www.linkedin.com/in/yiran-xu-55683816b/).
 
-[Story Piece](./another-page.html).
+[Story Piece](./story1.html).
